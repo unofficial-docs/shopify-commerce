@@ -9,6 +9,9 @@
 /coverage
 .playwright
 
+# open next
+.open-next
+
 # next.js
 /.next/
 /out/
